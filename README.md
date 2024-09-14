@@ -1,10 +1,10 @@
 # Altcoins-to-Hash160
-Altcoins to hash160 Supported coin types: BTC, LTC, DOGE, DASH, BCH, XRP, ZCASH t1, t2
-</P>
+Altcoins to hash160 Supported coin types: BTC, LTC, DOGE, DASH, BCH, XRP, ZCASH t1, t3
+</P>To brute fore altcoin hash160's use Altcrack https://github.com/iceland2k14/AltCrack
   
 Single address
 python3 altconverter.py</br>
-Supported coin types: BTC, LTC, DOGE, DASH, BCH, XRP, ZCASH t1, t2</br>
+Supported coin types: BTC, LTC, DOGE, DASH, BCH, XRP, ZCASH t1, t3</br>
 Enter the cryptocurrency address: t1K1yA7L7SKtF2chEUY7aWH2ehB5Dh58LdB</br>
 Enter the coin type (e.g., BTC, LTC, DOGE, etc.): Zcash</br>
 Hash160: <Hash160_value> b80c8d1c13f19481cd7dff61d95d4137b752dc117e</br>
