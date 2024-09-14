@@ -54,11 +54,11 @@ Processing complete! Output written to output.csv (or your file name)</br>
 addresses.txt    Input bulk mixed</br>
 bc1qw4skpmcnns4xx8m5e8eumptxm7hdz2v70wv34y, BTC</br>
 t1K1yA7L7SKtF2chEUY7aWH2ehB5Dh58LdB, Zcash</br>
-DPMi3xsfRz6gzKXuyU9C7GoNzvVXttmuwL, DOGE</br>
+D8ZEVbgf4yPs3MK8dMJJ7PpSyBKsbd66TX, DOGE</br>
 <br>
 Output bulk mixed </br>
 Address, Coin Type, Hash160</br>
 bc1qw4skpmcnns4xx8m5e8eumptxm7hdz2v70wv34y, BTC, f2c4c5796fa8c0fbb3b0f405a78cc3b0cfd9d967</br>
 t1K1yA7L7SKtF2chEUY7aWH2ehB5Dh58LdB, Zcash, a5128be28b88e6f9edfdad86ed88170bff8488ac</br>
-DPMi3xsfRz6gzKXuyU9C7GoNzvVXttmuwL, DOGE, 88a0e931d7a54c97c5a37c20f807f1d7bff188a1</br>
+D8ZEVbgf4yPs3MK8dMJJ7PpSyBKsbd66TX, doge, 2579000e645c4eb1b1e7ec9bf515b313dbdfb6e8</br>
 <br>
