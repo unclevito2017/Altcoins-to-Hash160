@@ -1,6 +1,6 @@
 # Altcoins-to-Hash160
 Altcoins to hash160 Supported coin types: BTC, LTC, DOGE, DASH, BCH, XRP, ZCASH t1, t3
-</P>To brute fore altcoin hash160's use Altcrack https://github.com/iceland2k14/AltCrack
+</P>To brute force altcoin hash160's use Altcrack https://github.com/iceland2k14/AltCrack
   
 Single address
 python3 altconverter.py</br>
